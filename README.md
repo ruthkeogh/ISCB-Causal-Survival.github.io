@@ -1,1 +1,1 @@
-# ISCB-Causal-Survival.github.io
+# ISCB_Causal_Survival.github.io
